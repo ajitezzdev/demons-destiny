@@ -1,4 +1,4 @@
-# demons-destiny
+# Demon's Destiny
 
 A 2D beat-em-up RPG following Vraak, an Asura descending through the layers of Naraka to uncover the truth behind his father's death.
 
